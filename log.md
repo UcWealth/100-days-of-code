@@ -1,13 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 8: January 7, 2020 
+##### (I confess that i started this round since december 2019, but had to discontinue due to my frustration at React.js. I went through several tutorials and felt i understood what it was all about. Yet, when it was time to build projects, i blanked out. I wasn't sure of what to do next after creating all the components and modules. I wasnt even sure of why React was even necessary in the first place(Managing Complex State(data)....yeah. Now, explain that to an 8-year old) I've now come to realize that what i was going through is called Tutorial Hell. Someone on youtube(Whatsdev) said if you didnt understand a js framework, chances are you dont understand JS as much as you should. He also said that the best way to learn JS is to go through a book and blog posts. So, i decided to go back to vanilla JS and intro to CS. No frameworks for now. Resources i'm using are: 1. Eloquent Javascript 2. You dont know JS yet book series on github 3. Four Semesters of CS in 5 hours by Brian Holt)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
@@ -19,12 +14,3 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
