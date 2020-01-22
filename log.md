@@ -14,3 +14,22 @@
 **Link(s) to work**: [Unit Testing With Jasmine](https://codepen.io/ucwealth/pen/qBExWEq?editors=0011)
 
 
+### Day 9: January 21, 2020
+**Today's Progress**:
+1) I built an app that changes the page background colour by generating a random hex color code and printing it out on the UI.
+2) I built a simple JS image slider and a message board where you post messages and they are printed out on the screen
+3) Thanks to Wes Bos's JS30, i build a JS drumkit. This one was really fun.
+
+**Thoughts**: Still have to improve on the drumkit page's responsiveness on smaller screens
+
+**Link(s) to work**:[]()
+
+
+### Day 10: January 22, 2020
+**Today's Progress**:
+1) I built a booklist app using plain JS and Localstorage where you can create, read, update and delete data from. 
+2.) I see the need for using modules in React. It makes your code so much more easier to look at.
+
+**Thoughts**: I should build something that uses routing next.
+
+**Link(s) to work**:[]()
