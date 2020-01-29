@@ -22,7 +22,7 @@
 
 **Thoughts**: Still have to improve on the drumkit page's responsiveness on smaller screens
 
-**Link(s) to work**:[]()
+**Link(s) to work**:[Hex Background Changer](https://ucwealth.github.io/JS-Bg-changer/)
 
 
 ### Day 10: January 22, 2020
@@ -32,4 +32,12 @@
 
 **Thoughts**: I should build something that uses routing next.
 
-**Link(s) to work**:[]()
+**Link(s) to work**:[Booklist CRUD App](https://ucwealth.github.io/My-BookList/)
+
+
+### Day 11: January 29, 2020
+**Today's Progress**:
+1) I built a weather app that fetched the weather in my location from darksky.net api. I used features such as fetch,navigator in the browser and cors-anywhere proxy
+
+**Thoughts**: So far so good
+**Link(s) to work**:[js-weather-app](https://ucwealth.github.io/js-weather-app/)
