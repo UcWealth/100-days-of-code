@@ -35,7 +35,13 @@
 **Link(s) to work**:[Booklist CRUD App](https://ucwealth.github.io/My-BookList/)
 
 
-### Day 11: January 29, 2020
+### Day 11: January 28, 2020
+**Today's Progress**:
+1) I played around with css variables and learnt how to change them with JS
+
+**Thoughts**: I reserve my comments.
+
+### Day 12: January 29, 2020
 **Today's Progress**:
 1) I built a weather app that fetched the weather in my location from darksky.net api. I used features such as fetch,navigator in the browser and cors-anywhere proxy
 
