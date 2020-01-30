@@ -47,3 +47,11 @@
 
 **Thoughts**: So far so good
 **Link(s) to work**:[js-weather-app](https://ucwealth.github.io/js-weather-app/)
+
+### Day 13: January 30, 2020
+**Today's Progress**:
+1) I built a weather app where you can enter a city and country and you get the weather conditions there displayed on your app. I used OpenWeatherMap api to make the calls.
+
+**Thoughts**: Now i see another way React helps with writing JS. I dont have to select DOM elements manually to modify them. I simply write my JSX and react renders them for me. 
+
+**Link(s) to work**:[React-Weather-Finder](https://ucwealth.github.io/React-Weather-Finder/)
