@@ -68,3 +68,14 @@
 1. I learnt about HTML5 Canvas from Wes Bos
 2. His brush strokes are full while mine is glitchy. i dont know why and not sure how to fix it since i dont have full knowledge of the concepts yet
 **Link(s) to work**:[Drawing Board](https://github.com/UcWealth/drawing-board)
+
+### Day 16: Feb 5th, 2020
+**Today's Progress**:
+1. I started building a full stack app using MongoDB Atlas, Express, Node and React
+**Link(s) to work**:[Shopper](https://github.com/UcWealth/shopper)
+
+### Day 17: Feb 10th, 2020
+**Today's Progress**:
+1. I was hit with a massive FOMO over this past week after watching some videos and listening to some freelancers talk about how much they make on freelancing sites with just minimal knowledge.
+2. So I registered on upwork and fiverr and created a gig. Next is to learn how to write a proposal.
+**Link(s) to work**:[Fiverr Gig](https://www.fiverr.com/s2/f0ebcb8266)
