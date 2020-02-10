@@ -55,3 +55,10 @@
 **Thoughts**: Now i see another way React helps with writing JS. I dont have to select DOM elements manually to modify them. I simply write my JSX and react renders them for me. 
 
 **Link(s) to work**:[React-Weather-Finder](https://ucwealth.github.io/React-Weather-Finder/)
+
+### Day 14: January 31, 2020
+**Today's Progress**:
+1. I built videozone, an app where you can search for movies and it displays details about the movie on your screen.
+2. I built it with React and TMDB Api.
+3. I am yet to style it, so it looks pretty. It's functional though
+**Link(s) to work**:[Videozone](https://ucwealth.github.io/videozone/)
